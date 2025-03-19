@@ -1,69 +1,85 @@
-# Welcome to your Lovable project
+LoanONE AI - Intelligent Loan Approval System
 
-## Project info
+🚀 Revolutionizing Loan Approvals with AI & Automation
 
-**URL**: https://lovable.dev/projects/084ee495-82b8-4253-8fd7-1e24d22061d4
+LoanONE AI is an innovative, AI-driven online loan approval system designed to simplify and accelerate loan applications while ensuring security, compliance, and accessibility. By integrating cutting-edge AI and speech recognition technologies, LoanONE AI eliminates unnecessary delays, enhances user experience, and streamlines the verification process.
 
-## How can I edit this code?
+🎯 Key Features
 
-There are several ways of editing your application.
+🏡 Landing Page: A Seamless Start
 
-**Use Lovable**
+Modern, responsive UI with an intuitive design.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/084ee495-82b8-4253-8fd7-1e24d22061d4) and start prompting.
+Clear call-to-action ("Get Your Loan Approved Fast and Easy").
 
-Changes made via Lovable will be committed automatically to this repo.
+Navigation links to About Us and Contact, redirecting to the footer.
 
-**Use your preferred IDE**
+₹ (Indian Rupee) currency support across the platform.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔐 Secure Login System
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Multi-option login: Email/Phone Number + Password.
 
-Follow these steps:
+Integrated Google Speech-to-Text for effortless voice-based entry.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+"Forgot Password" and "Sign Up" links for easy account recovery.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📹 Interactive Intro & Questionnaire
 
-# Step 3: Install the necessary dependencies.
-npm i
+AI-generated instructional videos guiding users through each form field.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Video playback with basic controls (Play/Pause).
 
-**Edit a file directly in GitHub**
+Camera & microphone permissions for enhanced fraud detection.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Picture-in-picture (PiP) mode for real-time video monitoring.
 
-**Use GitHub Codespaces**
+Smart loan questionnaire collecting essential details.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📑 Document Upload & Verification
 
-## What technologies are used for this project?
+Easy-to-use, category-specific document upload fields.
 
-This project is built with .
+File previews for uploaded documents.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Supports PDF, JPG, and PNG formats (max 10MB).
 
-## How can I deploy this project?
+Progress indicators for real-time upload feedback.
 
-Simply open [Lovable](https://lovable.dev/projects/084ee495-82b8-4253-8fd7-1e24d22061d4) and click on Share -> Publish.
+✅ Loan Verification & Status
 
-## I want to use a custom domain - is that possible?
+AI-powered verification with a 5–10 second processing delay.
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Loan status updates: Approved, Pending, or Declined.
+
+Currency consistency: All monetary values displayed in ₹.
+
+"Accept Offer" and "Contact Support" options.
+
+🎥 Live Camera & AI-based Face Detection
+
+OpenCV 4.5.5.64 & Face-Recognition 1.3.0 for multi-face detection.
+
+Automatic video preview window for live face verification.
+
+Smooth permission handling with error messaging.
+
+🛠 Technology Stack
+
+Frontend: Vite, TypeScript, React, shadcn-ui, Tailwind CSS
+
+Speech Recognition: Google Cloud Speech-to-Text API
+
+Face Detection: OpenCV 4.5.5.64, Face-Recognition 1.3.0
+
+Security: HTTPS, Password Encryption, CSRF Protection
+
+🎯 Why LoanONE AI?
+
+✅ AI-Powered: Intelligent speech & face recognition for smooth applications.✅ Secure & Compliant: End-to-end encryption, fraud detection & CSRF protection.✅ Fast & User-Friendly: Interactive UI with video tutorials for better guidance.✅ Seamless Experience: One-stop solution for loan approvals with real-time updates.✅ Hackathon-Ready: A cutting-edge, innovative solution designed to impress judges.
+
+🏆 Built for the Hackathon
+
+LoanONE AI isn't just another loan approval platform—it redefines financial accessibility with AI. Designed with a futuristic vision, our platform ensures that users get the best possible loan experience with efficiency, security, and trust. Let's revolutionize fintech together! 🚀💡
+
+🚀 Team LoanONE AI - Winning the Future of Finance!

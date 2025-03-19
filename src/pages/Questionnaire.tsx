@@ -22,12 +22,12 @@ import InstructionalVideo from "@/components/ui-elements/InstructionalVideo";
 
 // Instruction videos for different fields
 const INSTRUCTION_VIDEOS = {
-  intro: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  fullName: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  loanAmount: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  purpose: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  employment: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  income: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+  intro: "/videos/1.Welcome.mp4",
+  fullName: "/videos/2.FullName.mp4",
+  loanAmount: "/videos/3.LoanAmt.mp4",
+  purpose: "/videos/4.PurposeLoan.mp4",
+  employment: "/videos/5.EmpType.mp4",
+  income: "/videos/6.Annualinc.mp4",
 };
 
 const Questionnaire = () => {

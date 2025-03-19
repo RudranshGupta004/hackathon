@@ -15,10 +15,9 @@ import InstructionalVideo from "@/components/ui-elements/InstructionalVideo";
 import { formatCurrency } from "@/utils/formatCurrency";
 
 const INSTRUCTIONAL_VIDEOS = {
-  "government-id": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  "proof-of-income": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  "bank-statement": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  "overview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+  "government-id": "/videos/7.GovId.mp4",
+  "proof-of-income": "/video/8.ProofOfIncome.mp4",
+  "bank-statement": "/video/9.BankStatement.mp4",
 };
 
 const DocumentUpload = () => {

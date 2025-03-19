@@ -17,12 +17,12 @@ import InstructionalVideo from "@/components/ui-elements/InstructionalVideo";
 
 // Video sources for instructional content
 const INSTRUCTION_VIDEOS = {
-  login: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  signup: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  name: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  email: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  phone: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-  password: "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+  login: "/videos/Login.mp4",
+  signup: "/videos/AccCreation.mp4",
+  name: "/videos/EnterName.mp4",
+  email: "/videos/EnterEmail.mp4",
+  phone: "/videos/PhoneNo.mp4",
+  password: "/videos/Password.mp4",
 };
 
 const Login = () => {
