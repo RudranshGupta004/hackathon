@@ -64,7 +64,7 @@ Automatic video preview window for live face verification.
 
 Smooth permission handling with error messaging.
 
-🛠 Technology Stack
+🛠️ Technology Stack
 
 Frontend: Vite, TypeScript, React, shadcn-ui, Tailwind CSS
 
@@ -77,9 +77,3 @@ Security: HTTPS, Password Encryption, CSRF Protection
 🎯 Why LoanONE AI?
 
 ✅ AI-Powered: Intelligent speech & face recognition for smooth applications.✅ Secure & Compliant: End-to-end encryption, fraud detection & CSRF protection.✅ Fast & User-Friendly: Interactive UI with video tutorials for better guidance.✅ Seamless Experience: One-stop solution for loan approvals with real-time updates.✅ Hackathon-Ready: A cutting-edge, innovative solution designed to impress judges.
-
-🏆 Built for the Hackathon
-
-LoanONE AI isn't just another loan approval platform—it redefines financial accessibility with AI. Designed with a futuristic vision, our platform ensures that users get the best possible loan experience with efficiency, security, and trust. Let's revolutionize fintech together! 🚀💡
-
-🚀 Team LoanONE AI - Winning the Future of Finance!
